@@ -1,4 +1,4 @@
-# Bootstrap-Project-1
+# Calculator
 
 Projeto de calculadora simples utilizando HTML, CSS, JavaScript e JQuery
 
